@@ -8,7 +8,7 @@ public class B_test02 {
 
     @RequestMapping("/b/test02")
     public String test1() {
-        return "b_test02";
+        return "b_test03";
     }
 }
 
